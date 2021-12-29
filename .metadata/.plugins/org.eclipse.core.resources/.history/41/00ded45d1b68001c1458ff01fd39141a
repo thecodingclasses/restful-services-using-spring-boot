@@ -1,0 +1,5 @@
+package com.thecodingclasses.springboot.firstapp.controller;
+
+public class HelloWorldController {
+
+}

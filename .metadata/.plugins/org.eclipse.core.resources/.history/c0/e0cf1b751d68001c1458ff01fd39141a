@@ -1,0 +1,5 @@
+package com.thecodingclasses.springboot.controller;
+
+public class HelloSpringBootController {
+
+}
